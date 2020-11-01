@@ -4,6 +4,5 @@
 @title = {Weakly-supervised-Learning-on-Satellite-Imagery-Semantic-Segmentation},  
 @author = {Shenwei Xie}
 @time = {from 2020/11/01}
-}  
 ```
 关于基于弱监督学习的图像语义分割的的所有资料，包括：介绍、综述文章、最新文章、常用数据集、比赛、代表工作及其代码等等，**欢迎一起贡献！**
