@@ -37,6 +37,12 @@
 
 ## 1.Areas and Papers (研究领域与相关论文)
 
+Related articles and research conclusion of Weakly supervised Learning on Imagery Semantic Segmentation
+
+-[语义分割中的弱监督学习(Proposal-based Solution--PR2016 & Simple to Complex--TPAMI2017 & Object Region Mining with AE--CVPR2017)](https://mp.weixin.qq.com/s/Amr34SdrPZho1GQpFS7WBA)
+-[SEC-Seed, Expand and Constrain: Three Principles for Weakly-Supervised Image Segmentation](https://baijiahao.baidu.com/s?id=1618210995247519257&wfr=spider&for=pc)
+-[弱监督学习在语义分割中的进展与应用](https://www.zhihu.com/question/53263115)
+
 - - -
 
 ## 2.Latest Publications (最新论文)
