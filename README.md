@@ -31,13 +31,7 @@ Extracting roads from satellite images through semantic segmentation algorithm h
 
 - - -
 
-## 0.Introduction and Tutorials (简介与教程)
-
-- - -
-
-## 1.Areas and Papers (研究领域与相关论文)
-
-Related articles and research conclusion of Weakly supervised Learning on Imagery Semantic Segmentation
+## 0.Introduction and Related Papers
 
 - 
 - 
@@ -45,18 +39,10 @@ Related articles and research conclusion of Weakly supervised Learning on Imager
 
 - - -
 
-## 2.Latest Publications (最新论文)
+## 1.Code (代码)
 
 - - -
 
-## 3.Challenges (相关比赛)
-
-- - -
-
-## 4.Code (代码)
-
-- - -
-
-## 5.Datasets and Benchmarks (数据集与评测结果)
+## 2.Datasets and Benchmarks (数据集与评测结果)
 
 - - -
