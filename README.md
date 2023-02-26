@@ -1,7 +1,7 @@
-# Weakly-supervised-Learning-on-Satellite-Imagery-Semantic-Segmentation 卫星图像语义分割的弱监督学习
-项目概述：Satellite imagery semantic segmentation requires high-resolution satellite images to train the Nerual Network. Due to the expensive cost of the pixel-level annotation, the cheaper instance-level annotation of the satellite image is not suitable for the high-resolution image, which leads to the high error rate. Driven by the need to avoid a large number of false detections and missed detections with coarse labels, the weakly-supervised learning holds the promise of data exploration with for example the learning method capable of refining the mask with the location of the seed. In addition, this project needs to generate the more specific label's information as the output of the designed weakly-supervised algorithm. This project is looking for someone who has a basic knowledge of deep learning and a good skill for programming with python.
+# Stagewise Weakly Supervised Satellite Imagery Road Extraction Based on Road Centerline Scribbles
+Extracting roads from satellite images through semantic segmentation algorithm has become the mainstream solution for Remote Sensing-based road monitoring tasks. However, due to complex features and changeable textures of roads in satellite imagery which derive from various geographical environments and the high cost of pixel-level road labeling, it is unaffordable to acquire a substantial dataset with pixel-level road annotation to train semantic segmentation models. To solve the above problems, a stagewise weakly supervised road extraction algorithm based on road centerline scribbles is proposed. The feature of road centerline scribbles is learned in a weakly supervised way, and the road segmentation model is trained by stages. In addition, the pseudo mask update strategy and the hybrid training strategy are proposed, and the loss functions for road foreground and road background are designed. The results show that compared with other weak supervision methods based on road centerline, the proposed algorithm achieves superior performance in road segmentation task. Ablation studies are also conducted to verify the effectiveness of the proposed training strategy.
 ```
-@title = {Weakly-supervised-Learning-on-Satellite-Imagery-Semantic-Segmentation},  
+@title = {Stagewise Weakly Supervised Satellite Imagery Road Extraction Based on Road Centerline Scribbles},  
 @author = {Shenwei Xie}
 @time = {from 2020/11/01}
 ```
@@ -39,9 +39,9 @@
 
 Related articles and research conclusion of Weakly supervised Learning on Imagery Semantic Segmentation
 
-- [语义分割中的弱监督学习: (Proposal-based Solution--PR2016) & (Simple to Complex--TPAMI2017) & (Object Region Mining with AE--CVPR2017)](https://mp.weixin.qq.com/s/Amr34SdrPZho1GQpFS7WBA)
-- [SEC-Seed, Expand and Constrain: Three Principles for Weakly-Supervised Image Segmentation](https://baijiahao.baidu.com/s?id=1618210995247519257&wfr=spider&for=pc)
-- [弱监督学习在语义分割中的进展与应用](https://www.zhihu.com/question/53263115)
+- 
+- 
+- 
 
 - - -
 
@@ -60,9 +60,3 @@ Related articles and research conclusion of Weakly supervised Learning on Imager
 ## 5.Datasets and Benchmarks (数据集与评测结果)
 
 - - -
-
-## Other Resources (其他资源)
-
-- - -
-
-## Contributing (欢迎参与贡献)
