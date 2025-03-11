@@ -6,15 +6,3 @@ Extracting roads from satellite images through semantic segmentation algorithm h
 @author = {Shenwei Xie (BUPT PRIS)}
 @time = {from 2020/11/01}
 ```
-
-## 0. Introduction and Related Papers
-
-- - -
-
-## 1. Code
-
-- - -
-
-## 2. Datasets and Benchmarks
-
-- - -
